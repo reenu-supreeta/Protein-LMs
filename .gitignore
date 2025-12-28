@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data files
+*.npy
+*.csv
+*.tsv
+*.gz
+
+# Model artifacts
+*.pt
+*.bin
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
